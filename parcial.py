@@ -7,7 +7,7 @@ def mostrar_menu():
     print("1. Comprar entrada")
     print("2. Consultar comprador")
     print("3. Cancelar compra")
-    print("4. Salir")
+    print("4. Exit")
 
 def comprar_entrada():
     nombre = input("Ingrese nombre del comprador: ").strip()
